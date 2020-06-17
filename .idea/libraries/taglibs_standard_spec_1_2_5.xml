@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="taglibs-standard-spec-1.2.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Servlet5/web/lib/taglibs-standard-spec-1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/Servlet5/web/lib/taglibs-standard-spec-1.2.5.jar!/" recursive="false" />
+  </library>
+</component>
